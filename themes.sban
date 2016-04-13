@@ -1,0 +1,9 @@
+# This is a test with a registry
+themes = [
+  { 
+    name: "default-blog",
+    description: "This is a the default blog theme",
+    url: "https://github.com/lunet-io/lunet-registry/archive/master.zip",
+    directory: "lunet-registry-master"
+  } 
+]
