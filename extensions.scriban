@@ -1,5 +1,5 @@
 # This is a test with a registry
-extends = [
+extensions = [
   { 
     name: "jquery",
     description: "An extension that automates the integration of jquery into a lunet project",
